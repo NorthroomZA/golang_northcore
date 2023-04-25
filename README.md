@@ -9,9 +9,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang-templates/seed)](https://goreportcard.com/report/github.com/golang-templates/seed)
 [![Codecov](https://codecov.io/gh/golang-templates/seed/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-templates/seed)
 
-⭐ `Star` this repository if you find it valuable and worth maintaining.
 
-👁 `Watch` this repository to get notified about new releases, issues, etc.
 
 ## Description
 
